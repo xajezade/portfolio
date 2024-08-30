@@ -1,2 +1,3 @@
 # portfolio-test
-This is for creating a sample portfolio using HTML, CSS, and Javascript 
+This is my portfolio which was created using HTML5 and CSS for styling.
+Github pages was used to publish it. 
