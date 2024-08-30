@@ -12,7 +12,7 @@ body {
   margin-top:-1cm;
   padding-top: 2cm;
   padding-bottom: 2cm;
-  height: 5mm;
+  height: 20mm;
  }
 
 .topmenu {
@@ -46,6 +46,7 @@ body {
   font-style: italic;
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
   flex-direction: row;
 }
 
@@ -133,7 +134,7 @@ h2 {
 }
 
 .skill img {
-  height: 35px;
+  height: 45px;
   align-items: center;
 }
 
